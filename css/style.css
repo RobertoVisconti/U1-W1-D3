@@ -1,0 +1,57 @@
+header {
+    text-align: center;
+}
+
+body {
+    font-family: Georgia, serif;
+}
+
+main {
+     margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+main img {
+    width: 100%;
+}
+
+#middle-part {
+    text-align: center;
+}
+
+video {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+}
+
+.box {
+  border-left: 4px solid #d89b55; /* linea verticale */
+  padding-left: 12px;            /* spazio tra linea e testo */
+  color: #B5460F;
+}
+
+h5{background: linear-gradient(to bottom,#FDFBF1 0%, #fefcea 100%);
+    margin-top: 0;
+    padding: 2em;
+    color: #004D4C;
+}
+
+hr {
+    margin: 0;
+    border: 0.1em solid;
+    color: #FFD877;
+}
+
+a{
+    color: #107777;
+}
+
+section hr{
+    color: #107777;
+}
+
+#color {
+    color: #999999;
+}
